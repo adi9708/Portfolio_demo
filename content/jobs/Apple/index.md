@@ -1,9 +1,9 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
+title: 'Graduate Teaching Assistant'
+company: 'Santa Clara University'
+location: 'Santa Clara, CA'
+range: 'January 2023 - June 2024'
 url: 'https://www.apple.com/music/'
 ---
 
